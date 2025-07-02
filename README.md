@@ -4,10 +4,10 @@ A PostgreSQL-based relational database project to manage recipes, ingredients, n
 
 ---
 ## Group Members:
+- Harshil Joshi-202303047
+- Riddhish Upadhyay-202303048
+- Utsav Tala-202303018
 
--Harshil Joshi-202303047
--Riddhish Upadhyay-202303048
--Utsav Tala-202303018
 
 
 ## 🔧 Features
