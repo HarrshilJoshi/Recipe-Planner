@@ -3,6 +3,12 @@
 A PostgreSQL-based relational database project to manage recipes, ingredients, nutrition, user subscriptions, and reviews. Built as part of a B.Tech curriculum to demonstrate SQL design, normalization, and stored procedures.
 
 ---
+## Group Members:
+
+-Harshil Joshi-202303047
+-Riddhish Upadhyay-202303048
+-Utsav Tala-202303018
+
 
 ## 🔧 Features
 
